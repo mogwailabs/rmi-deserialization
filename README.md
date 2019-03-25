@@ -1,7 +1,7 @@
 # Attacking Java RMI services after JEP 290 
 
 This repository contains all examples from my talk "Attacking Java RMI services in 2019" at BSides Munich 2019.
-I also included the slides
+I also included the slides, however a more detailed explanation of this topic can be [found on our blog](https://mogwailabs.de/blog/2019/03/attacking-java-rmi-services-after-jep-290/).
 
 
 ## BSidesMucRmiService
